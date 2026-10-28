@@ -1,72 +1,93 @@
-<h1 align="center">Hi there, I'm João Santos 👋</h1>
+<h1 align="center">Olá! 👋 Eu sou João Santos</h1>
 
-<h3 align="center">Business Intelligence | Data Analytics | Process Automation</h3>
+<h3 align="center">Especialista em Inteligência de Negócios | BI | Dados | Automação de Processos</h3>
 
 <p align="center">
-  Turning data into insights and business processes into efficient solutions.
+  Transformando dados em informações estratégicas e processos em soluções inteligentes.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/joao-paulo-de-oliveira-dos-santos-095525220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Business%20Intelligence-20A486?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Área-Business%20Intelligence-008F83?style=for-the-badge" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Localização-Brasil-009739?style=for-the-badge" alt="Brasil"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a Business Intelligence professional passionate about transforming data into actionable insights and improving business performance through technology.
+Sou profissional da área de **Inteligência de Negócios**, com experiência em análise de dados, desenvolvimento de indicadores, construção de dashboards e automação de processos.
 
-My experience combines data analysis, dashboard development, business requirements, process optimization, and automation.
+Meu objetivo é conectar tecnologia, dados e estratégia para desenvolver soluções que contribuam para a eficiência operacional, a melhoria dos processos e a tomada de decisões.
 
-- 📊 **Business Intelligence:** Developing dashboards, KPIs, and analytical solutions.
-- 📈 **Data Analytics:** Transforming data into insights that support strategic decisions.
-- ⚙️ **Process Automation:** Improving operational efficiency through automation and RPA.
-- 🏦 **Business Performance:** Supporting business areas with indicators, monitoring, and performance analysis.
-- 🎓 **Education:** Background in Accounting and MBA studies in Business Intelligence.
-- 🌎 **Based in Brazil:** Open to connecting with professionals and exploring opportunities in data and technology.
+📊 **Business Intelligence:** desenvolvimento de dashboards, indicadores e análises gerenciais.
 
-## 🛠️ Technologies & Tools
+📈 **Análise de Dados:** transformação de dados em informações relevantes para o negócio.
 
-<p align="left">
+⚙️ **Automação de Processos:** desenvolvimento de soluções para reduzir atividades manuais e aumentar a produtividade.
+
+🔗 **Integração de Sistemas:** utilização de APIs e ferramentas de automação para conectar processos e fontes de dados.
+
+🏦 **Inteligência de Negócios:** acompanhamento de resultados, análise de desempenho e identificação de oportunidades de melhoria.
+
+🎓 **Formação:** Ciências Contábeis e MBA em Inteligência de Negócios.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
   <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST"/>
   <img src="https://img.shields.io/badge/RPA-6C63FF?style=for-the-badge" alt="RPA"/>
 </p>
 
-## 🚀 What I Do
+---
 
-- Build interactive dashboards and business performance indicators.
-- Analyze business data to identify trends and opportunities.
-- Automate repetitive tasks and operational workflows.
-- Integrate systems and data sources through APIs.
-- Translate business needs into practical technological solutions.
+## 🚀 Principais áreas de atuação
 
-## 📌 Featured Areas
+### 📊 Inteligência de Negócios (BI)
+- Desenvolvimento e manutenção de dashboards no Qlik Sense.
+- Criação e acompanhamento de indicadores de desempenho (KPIs).
+- Análise de resultados e desempenho operacional.
+- Transformação de dados em informações para apoiar decisões estratégicas.
 
-**Business Intelligence**  
-Data visualization, KPI monitoring, reporting, and strategic analysis.
+### ⚙️ Automação e melhoria de processos
+- Mapeamento e otimização de processos.
+- Automação de atividades operacionais e consultas.
+- Desenvolvimento de soluções com Google Apps Script.
+- Integração entre sistemas por meio de APIs REST.
+- Redução de tarefas manuais e melhoria da eficiência operacional.
 
-**Process Automation**  
-Workflow optimization, RPA, API integrations, and automated reporting.
-
-**Data-Driven Decisions**  
-Using reliable information to support operational and strategic improvements.
+### 📈 Análise estratégica
+- Identificação de oportunidades de melhoria.
+- Monitoramento de indicadores e resultados.
+- Apoio às áreas de negócio por meio de dados e análises.
+- Desenvolvimento de soluções alinhadas às necessidades da organização.
 
 ---
 
+## 💡 Minha visão
+
+Acredito que a tecnologia gera mais valor quando resolve problemas reais.
+
+Meu foco é desenvolver soluções que unam **dados, processos e automação**, tornando as informações mais acessíveis, as rotinas mais eficientes e as decisões mais assertivas.
+
+---
+
+## 📫 Vamos nos conectar?
+
 <p align="center">
-  <i>"Turning data into decisions and ideas into solutions."</i>
+  <a href="https://www.linkedin.com/in/joao-paulo-de-oliveira-dos-santos-095525220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Acesse%20meu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
+  <i>Transformando dados em decisões. Automatizando processos. Gerando resultados.</i> 🚀
 </p>
-
-
